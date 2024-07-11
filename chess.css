@@ -1,0 +1,79 @@
+.one .w{
+    width:20px;
+    height:20px;
+    background-color: white;
+}
+.one .b{
+    width:20px;
+    height:20px;
+    background-color: black;
+}
+table{
+    border:20px ridge brown;
+}
+.two .b{height:20px;
+    width:20px;
+    background-color: white;
+}
+.two .w{height:20px;
+    width:20px;
+    background-color: black;
+}
+.three .w{height:20px;
+    width:20px;
+    background-color: white;
+}
+.three .b{
+    width:20px;
+    background-color: black;
+    height:20px;
+}
+.four .b{
+    width:20px;
+    background-color: white;
+    height:20px;
+}
+.four .w{
+    width:20px;
+    height:20px;
+    background-color: black;
+}
+.five .w{
+    width:20px;
+    height:20px;
+    background-color: white;
+}
+.five .b{
+    height:20px;
+    width:20px;
+    background-color: black;
+}
+.six .b{
+    width:20px;
+    background-color: white;
+}
+.six .w{
+    width:20px;
+    height:20px;
+    background-color: black;
+}
+.seven .w{
+    width:20px;
+    height:20px;
+    background-color: white;
+}
+.seven .b{
+    width:20px;
+    height:20px;
+    background-color: black;
+}
+.eight .b{
+    width:20px;
+    height:20px;
+    background-color: white;
+}
+.eight .w{
+    height:20px;
+    width:20px;
+    background-color: black;
+}
